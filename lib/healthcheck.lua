@@ -1,7 +1,5 @@
 local _M = {_VERSION = '0.01'}
 
-local slack = require "sofit.slack"
-
 local stream_sock = ngx.socket.tcp
 local log = ngx.log
 local ERR = ngx.ERR
