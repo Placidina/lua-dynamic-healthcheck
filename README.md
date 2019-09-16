@@ -17,7 +17,7 @@
 
 ## Requirements
 
-* Requires the [`lua-dynamic-module`](Placidina/lua-dynamic-module) module.
+* Requires the [`lua-dynamic-upstream`](Placidina/lua-dynamic-upstream) module.
 * Requires the `lua-nginx-module` or `OpenResty`.
 
 ## Status
